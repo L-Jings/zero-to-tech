@@ -1,0 +1,29 @@
+{
+  "name": "zero-to-tech",
+  "version": "1.0.0",
+  "description": "test",
+  "homepage": "https://github.com/L-Jings/zero-to-tech#readme",
+  "bugs": {
+    "url": "https://github.com/L-Jings/zero-to-tech/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L-Jings/zero-to-tech.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^8.2.2"
+  },
+  "dependencies": {
+    "animejs": "^4.5.0"
+  }
+}
